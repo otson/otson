@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Backend Developer working remotely and currently living in Finland.
+#### I'm a Backend Developer working remotely and currently living in Tokyo, Japan.
 
 ##### BIO
 
